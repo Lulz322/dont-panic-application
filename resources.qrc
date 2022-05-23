@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Assets/images/logo.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>Assets/icons/mail.png</file>
+        <file>Assets/icons/visibility_off.png</file>
+        <file>Assets/icons/visibility_on.png</file>
+    </qresource>
+</RCC>
